@@ -1,0 +1,761 @@
+Fecha,Temporada,Equipo,Puntos
+1,21/22,Valencia,3
+1,21/22,Barcelona,3
+1,21/22,Atlético Madrid,3
+1,21/22,Sevilla,3
+1,21/22,Real Madrid,3
+1,21/22,Osasuna,1
+1,21/22,Villarreal,1
+1,21/22,Elche,1
+1,21/22,Cádiz,1
+1,21/22,Granada,1
+1,21/22,Espanyol,1
+1,21/22,Athletic Club,1
+1,21/22,Mallorca,1
+1,21/22,Levante,1
+1,21/22,Betis,1
+1,21/22,Celta Vigo,0
+1,21/22,Alavés,0
+1,21/22,Real Sociedad,0
+1,21/22,Getafe,0
+1,21/22,Rayo Vallecano,0
+2,21/22,Atlético Madrid,6
+2,21/22,Sevilla,6
+2,21/22,Valencia,4
+2,21/22,Barcelona,4
+2,21/22,Real Madrid,4
+2,21/22,Mallorca,4
+2,21/22,Real Sociedad,3
+2,21/22,Osasuna,2
+2,21/22,Villarreal,2
+2,21/22,Cádiz,2
+2,21/22,Granada,2
+2,21/22,Espanyol,2
+2,21/22,Athletic Club,2
+2,21/22,Levante,2
+2,21/22,Betis,2
+2,21/22,Celta Vigo,1
+2,21/22,Elche,1
+2,21/22,Alavés,0
+2,21/22,Getafe,0
+2,21/22,Rayo Vallecano,0
+3,21/22,Valencia,7
+3,21/22,Barcelona,7
+3,21/22,Atlético Madrid,7
+3,21/22,Sevilla,7
+3,21/22,Real Madrid,7
+3,21/22,Mallorca,7
+3,21/22,Real Sociedad,6
+3,21/22,Osasuna,5
+3,21/22,Athletic Club,5
+3,21/22,Villarreal,3
+3,21/22,Rayo Vallecano,3
+3,21/22,Elche,2
+3,21/22,Cádiz,2
+3,21/22,Granada,2
+3,21/22,Espanyol,2
+3,21/22,Levante,2
+3,21/22,Betis,2
+3,21/22,Celta Vigo,1
+3,21/22,Alavés,0
+3,21/22,Getafe,0
+4,21/22,Valencia,10
+4,21/22,Atlético Madrid,10
+4,21/22,Real Madrid,10
+4,21/22,Real Sociedad,9
+4,21/22,Athletic Club,8
+4,21/22,Barcelona,8
+4,21/22,Sevilla,8
+4,21/22,Mallorca,7
+4,21/22,Villarreal,6
+4,21/22,Osasuna,5
+4,21/22,Betis,5
+4,21/22,Elche,5
+4,21/22,Rayo Vallecano,4
+4,21/22,Levante,3
+4,21/22,Espanyol,2
+4,21/22,Cádiz,2
+4,21/22,Granada,2
+4,21/22,Celta Vigo,1
+4,21/22,Alavés,0
+4,21/22,Getafe,0
+5,21/22,Real Madrid,13
+5,21/22,Atlético Madrid,11
+5,21/22,Real Sociedad,10
+5,21/22,Valencia,10
+5,21/22,Barcelona,9
+5,21/22,Sevilla,9
+5,21/22,Athletic Club,9
+5,21/22,Osasuna,8
+5,21/22,Mallorca,8
+5,21/22,Villarreal,7
+5,21/22,Rayo Vallecano,7
+5,21/22,Elche,6
+5,21/22,Betis,6
+5,21/22,Cádiz,5
+5,21/22,Levante,4
+5,21/22,Granada,3
+5,21/22,Espanyol,3
+5,21/22,Celta Vigo,1
+5,21/22,Alavés,0
+5,21/22,Getafe,0
+6,21/22,Real Madrid,16
+6,21/22,Atlético Madrid,14
+6,21/22,Real Sociedad,13
+6,21/22,Sevilla,12
+6,21/22,Rayo Vallecano,10
+6,21/22,Villarreal,10
+6,21/22,Valencia,10
+6,21/22,Barcelona,10
+6,21/22,Athletic Club,9
+6,21/22,Betis,9
+6,21/22,Osasuna,8
+6,21/22,Mallorca,8
+6,21/22,Elche,6
+6,21/22,Cádiz,6
+6,21/22,Espanyol,6
+6,21/22,Celta Vigo,4
+6,21/22,Levante,4
+6,21/22,Granada,3
+6,21/22,Alavés,0
+6,21/22,Getafe,0
+7,21/22,Real Madrid,17
+7,21/22,Real Sociedad,16
+7,21/22,Sevilla,15
+7,21/22,Atlético Madrid,14
+7,21/22,Barcelona,13
+7,21/22,Rayo Vallecano,13
+7,21/22,Betis,12
+7,21/22,Villarreal,11
+7,21/22,Osasuna,11
+7,21/22,Valencia,11
+7,21/22,Athletic Club,10
+7,21/22,Mallorca,8
+7,21/22,Celta Vigo,7
+7,21/22,Elche,6
+7,21/22,Cádiz,6
+7,21/22,Espanyol,6
+7,21/22,Levante,4
+7,21/22,Granada,3
+7,21/22,Alavés,3
+7,21/22,Getafe,0
+8,21/22,Real Madrid,17
+8,21/22,Atlético Madrid,17
+8,21/22,Real Sociedad,17
+8,21/22,Sevilla,15
+8,21/22,Osasuna,14
+8,21/22,Villarreal,14
+8,21/22,Athletic Club,13
+8,21/22,Rayo Vallecano,13
+8,21/22,Barcelona,13
+8,21/22,Valencia,12
+8,21/22,Betis,12
+8,21/22,Mallorca,11
+8,21/22,Espanyol,9
+8,21/22,Elche,9
+8,21/22,Cádiz,7
+8,21/22,Celta Vigo,7
+8,21/22,Granada,6
+8,21/22,Levante,4
+8,21/22,Alavés,3
+8,21/22,Getafe,1
+9,21/22,Real Madrid,20
+9,21/22,Real Sociedad,20
+9,21/22,Sevilla,18
+9,21/22,Osasuna,17
+9,21/22,Atlético Madrid,17
+9,21/22,Rayo Vallecano,16
+9,21/22,Barcelona,16
+9,21/22,Betis,15
+9,21/22,Villarreal,14
+9,21/22,Athletic Club,13
+9,21/22,Espanyol,12
+9,21/22,Valencia,12
+9,21/22,Mallorca,11
+9,21/22,Elche,9
+9,21/22,Granada,9
+9,21/22,Cádiz,7
+9,21/22,Celta Vigo,7
+9,21/22,Levante,5
+9,21/22,Alavés,3
+9,21/22,Getafe,2
+10,21/22,Real Madrid,23
+10,21/22,Sevilla,21
+10,21/22,Real Sociedad,21
+10,21/22,Atlético Madrid,18
+10,21/22,Betis,18
+10,21/22,Osasuna,18
+10,21/22,Barcelona,16
+10,21/22,Athletic Club,16
+10,21/22,Rayo Vallecano,16
+10,21/22,Villarreal,14
+10,21/22,Espanyol,13
+10,21/22,Valencia,13
+10,21/22,Mallorca,12
+10,21/22,Celta Vigo,10
+10,21/22,Elche,10
+10,21/22,Granada,10
+10,21/22,Cádiz,7
+10,21/22,Alavés,6
+10,21/22,Levante,5
+10,21/22,Getafe,2
+11,21/22,Real Madrid,24
+11,21/22,Real Sociedad,24
+11,21/22,Sevilla,22
+11,21/22,Betis,21
+11,21/22,Osasuna,19
+11,21/22,Atlético Madrid,19
+11,21/22,Rayo Vallecano,19
+11,21/22,Athletic Club,17
+11,21/22,Barcelona,16
+11,21/22,Villarreal,15
+11,21/22,Espanyol,14
+11,21/22,Mallorca,13
+11,21/22,Valencia,13
+11,21/22,Granada,11
+11,21/22,Celta Vigo,10
+11,21/22,Elche,10
+11,21/22,Alavés,9
+11,21/22,Cádiz,8
+11,21/22,Levante,6
+11,21/22,Getafe,3
+12,21/22,Real Madrid,27
+12,21/22,Sevilla,25
+12,21/22,Real Sociedad,25
+12,21/22,Atlético Madrid,22
+12,21/22,Betis,21
+12,21/22,Rayo Vallecano,20
+12,21/22,Osasuna,19
+12,21/22,Athletic Club,18
+12,21/22,Barcelona,17
+12,21/22,Valencia,16
+12,21/22,Villarreal,15
+12,21/22,Granada,14
+12,21/22,Espanyol,14
+12,21/22,Mallorca,14
+12,21/22,Celta Vigo,11
+12,21/22,Alavés,10
+12,21/22,Elche,10
+12,21/22,Cádiz,9
+12,21/22,Levante,6
+12,21/22,Getafe,6
+13,21/22,Real Madrid,30
+13,21/22,Sevilla,28
+13,21/22,Real Sociedad,28
+13,21/22,Atlético Madrid,23
+13,21/22,Betis,21
+13,21/22,Rayo Vallecano,20
+13,21/22,Osasuna,19
+13,21/22,Barcelona,18
+13,21/22,Villarreal,18
+13,21/22,Athletic Club,18
+13,21/22,Espanyol,17
+13,21/22,Valencia,17
+13,21/22,Mallorca,15
+13,21/22,Granada,14
+13,21/22,Alavés,13
+13,21/22,Celta Vigo,12
+13,21/22,Cádiz,12
+13,21/22,Elche,11
+13,21/22,Levante,6
+13,21/22,Getafe,6
+14,21/22,Real Madrid,33
+14,21/22,Sevilla,29
+14,21/22,Real Sociedad,29
+14,21/22,Atlético Madrid,26
+14,21/22,Betis,24
+14,21/22,Rayo Vallecano,23
+14,21/22,Barcelona,21
+14,21/22,Villarreal,19
+14,21/22,Athletic Club,19
+14,21/22,Osasuna,19
+14,21/22,Valencia,18
+14,21/22,Espanyol,17
+14,21/22,Mallorca,15
+14,21/22,Alavés,14
+14,21/22,Granada,14
+14,21/22,Celta Vigo,13
+14,21/22,Cádiz,12
+14,21/22,Elche,11
+14,21/22,Getafe,9
+14,21/22,Levante,7
+15,21/22,Real Madrid,36
+15,21/22,Sevilla,29
+15,21/22,Atlético Madrid,29
+15,21/22,Real Sociedad,29
+15,21/22,Betis,27
+15,21/22,Barcelona,24
+15,21/22,Rayo Vallecano,24
+15,21/22,Espanyol,20
+15,21/22,Athletic Club,20
+15,21/22,Osasuna,20
+15,21/22,Villarreal,19
+15,21/22,Valencia,19
+15,21/22,Celta Vigo,16
+15,21/22,Mallorca,16
+15,21/22,Granada,15
+15,21/22,Alavés,14
+15,21/22,Elche,12
+15,21/22,Cádiz,12
+15,21/22,Getafe,10
+15,21/22,Levante,7
+16,21/22,Real Madrid,39
+16,21/22,Sevilla,32
+16,21/22,Betis,30
+16,21/22,Atlético Madrid,29
+16,21/22,Real Sociedad,29
+16,21/22,Rayo Vallecano,27
+16,21/22,Barcelona,24
+16,21/22,Valencia,22
+16,21/22,Athletic Club,21
+16,21/22,Osasuna,21
+16,21/22,Espanyol,20
+16,21/22,Villarreal,19
+16,21/22,Mallorca,19
+16,21/22,Granada,18
+16,21/22,Celta Vigo,16
+16,21/22,Elche,15
+16,21/22,Alavés,14
+16,21/22,Cádiz,12
+16,21/22,Getafe,11
+16,21/22,Levante,8
+17,21/22,Real Madrid,42
+17,21/22,Sevilla,35
+17,21/22,Betis,33
+17,21/22,Atlético Madrid,29
+17,21/22,Real Sociedad,29
+17,21/22,Rayo Vallecano,27
+17,21/22,Valencia,25
+17,21/22,Barcelona,25
+17,21/22,Espanyol,23
+17,21/22,Osasuna,22
+17,21/22,Villarreal,22
+17,21/22,Athletic Club,21
+17,21/22,Mallorca,20
+17,21/22,Granada,19
+17,21/22,Celta Vigo,17
+17,21/22,Alavés,15
+17,21/22,Elche,15
+17,21/22,Cádiz,13
+17,21/22,Getafe,12
+17,21/22,Levante,8
+18,21/22,Real Madrid,43
+18,21/22,Sevilla,38
+18,21/22,Betis,33
+18,21/22,Rayo Vallecano,30
+18,21/22,Atlético Madrid,29
+18,21/22,Real Sociedad,29
+18,21/22,Valencia,28
+18,21/22,Barcelona,28
+18,21/22,Villarreal,25
+18,21/22,Athletic Club,24
+18,21/22,Espanyol,23
+18,21/22,Osasuna,22
+18,21/22,Granada,22
+18,21/22,Mallorca,20
+18,21/22,Celta Vigo,20
+18,21/22,Alavés,15
+18,21/22,Elche,15
+18,21/22,Getafe,15
+18,21/22,Cádiz,14
+18,21/22,Levante,8
+19,21/22,Real Madrid,43
+19,21/22,Sevilla,41
+19,21/22,Betis,33
+19,21/22,Atlético Madrid,32
+19,21/22,Barcelona,31
+19,21/22,Rayo Vallecano,30
+19,21/22,Real Sociedad,30
+19,21/22,Valencia,28
+19,21/22,Villarreal,28
+19,21/22,Athletic Club,27
+19,21/22,Espanyol,26
+19,21/22,Granada,23
+19,21/22,Celta Vigo,23
+19,21/22,Osasuna,22
+19,21/22,Mallorca,20
+19,21/22,Getafe,18
+19,21/22,Alavés,16
+19,21/22,Elche,16
+19,21/22,Cádiz,14
+19,21/22,Levante,8
+20,21/22,Real Madrid,46
+20,21/22,Sevilla,44
+20,21/22,Betis,34
+20,21/22,Atlético Madrid,33
+20,21/22,Real Sociedad,33
+20,21/22,Barcelona,32
+20,21/22,Rayo Vallecano,31
+20,21/22,Villarreal,29
+20,21/22,Valencia,28
+20,21/22,Athletic Club,28
+20,21/22,Espanyol,26
+20,21/22,Osasuna,25
+20,21/22,Granada,24
+20,21/22,Celta Vigo,23
+20,21/22,Mallorca,20
+20,21/22,Elche,19
+20,21/22,Getafe,18
+20,21/22,Alavés,17
+20,21/22,Cádiz,14
+20,21/22,Levante,11
+21,21/22,Real Madrid,49
+21,21/22,Sevilla,45
+21,21/22,Betis,37
+21,21/22,Real Sociedad,36
+21,21/22,Rayo Vallecano,34
+21,21/22,Atlético Madrid,33
+21,21/22,Barcelona,32
+21,21/22,Valencia,29
+21,21/22,Villarreal,29
+21,21/22,Athletic Club,28
+21,21/22,Espanyol,27
+21,21/22,Celta Vigo,26
+21,21/22,Osasuna,25
+21,21/22,Granada,24
+21,21/22,Elche,22
+21,21/22,Getafe,21
+21,21/22,Mallorca,20
+21,21/22,Alavés,17
+21,21/22,Cádiz,15
+21,21/22,Levante,14
+22,21/22,Real Madrid,50
+22,21/22,Sevilla,46
+22,21/22,Betis,40
+22,21/22,Real Sociedad,37
+22,21/22,Atlético Madrid,36
+22,21/22,Barcelona,35
+22,21/22,Rayo Vallecano,34
+22,21/22,Villarreal,32
+22,21/22,Athletic Club,31
+22,21/22,Valencia,29
+22,21/22,Osasuna,28
+22,21/22,Espanyol,27
+22,21/22,Celta Vigo,27
+22,21/22,Granada,24
+22,21/22,Elche,23
+22,21/22,Getafe,22
+22,21/22,Mallorca,20
+22,21/22,Cádiz,18
+22,21/22,Alavés,17
+22,21/22,Levante,14
+23,21/22,Real Madrid,53
+23,21/22,Sevilla,47
+23,21/22,Betis,40
+23,21/22,Barcelona,38
+23,21/22,Real Sociedad,38
+23,21/22,Atlético Madrid,36
+23,21/22,Villarreal,35
+23,21/22,Athletic Club,34
+23,21/22,Rayo Vallecano,34
+23,21/22,Valencia,30
+23,21/22,Celta Vigo,30
+23,21/22,Osasuna,29
+23,21/22,Espanyol,27
+23,21/22,Elche,26
+23,21/22,Getafe,25
+23,21/22,Granada,24
+23,21/22,Mallorca,23
+23,21/22,Cádiz,18
+23,21/22,Alavés,17
+23,21/22,Levante,14
+24,21/22,Real Madrid,54
+24,21/22,Sevilla,50
+24,21/22,Betis,43
+24,21/22,Real Sociedad,41
+24,21/22,Barcelona,39
+24,21/22,Atlético Madrid,39
+24,21/22,Villarreal,36
+24,21/22,Athletic Club,34
+24,21/22,Rayo Vallecano,34
+24,21/22,Osasuna,32
+24,21/22,Celta Vigo,31
+24,21/22,Valencia,30
+24,21/22,Espanyol,28
+24,21/22,Elche,26
+24,21/22,Mallorca,26
+24,21/22,Getafe,25
+24,21/22,Granada,24
+24,21/22,Alavés,20
+24,21/22,Cádiz,19
+24,21/22,Levante,14
+25,21/22,Real Madrid,57
+25,21/22,Sevilla,51
+25,21/22,Betis,46
+25,21/22,Barcelona,42
+25,21/22,Atlético Madrid,42
+25,21/22,Real Sociedad,41
+25,21/22,Villarreal,39
+25,21/22,Athletic Club,37
+25,21/22,Rayo Vallecano,34
+25,21/22,Osasuna,32
+25,21/22,Celta Vigo,32
+25,21/22,Valencia,30
+25,21/22,Espanyol,29
+25,21/22,Elche,29
+25,21/22,Getafe,26
+25,21/22,Mallorca,26
+25,21/22,Granada,24
+25,21/22,Alavés,20
+25,21/22,Cádiz,20
+25,21/22,Levante,15
+26,21/22,Real Madrid,60
+26,21/22,Sevilla,54
+26,21/22,Betis,46
+26,21/22,Barcelona,45
+26,21/22,Atlético Madrid,45
+26,21/22,Real Sociedad,44
+26,21/22,Villarreal,42
+26,21/22,Athletic Club,37
+26,21/22,Rayo Vallecano,34
+26,21/22,Valencia,33
+26,21/22,Osasuna,32
+26,21/22,Celta Vigo,32
+26,21/22,Espanyol,29
+26,21/22,Elche,29
+26,21/22,Getafe,27
+26,21/22,Mallorca,26
+26,21/22,Granada,25
+26,21/22,Alavés,21
+26,21/22,Cádiz,21
+26,21/22,Levante,18
+27,21/22,Real Madrid,63
+27,21/22,Sevilla,55
+27,21/22,Barcelona,48
+27,21/22,Atlético Madrid,48
+27,21/22,Betis,46
+27,21/22,Real Sociedad,44
+27,21/22,Villarreal,42
+27,21/22,Athletic Club,40
+27,21/22,Valencia,36
+27,21/22,Celta Vigo,35
+27,21/22,Osasuna,35
+27,21/22,Rayo Vallecano,34
+27,21/22,Espanyol,32
+27,21/22,Elche,29
+27,21/22,Getafe,27
+27,21/22,Mallorca,26
+27,21/22,Granada,25
+27,21/22,Cádiz,24
+27,21/22,Alavés,22
+27,21/22,Levante,18
+28,21/22,Real Madrid,66
+28,21/22,Sevilla,56
+28,21/22,Barcelona,51
+28,21/22,Atlético Madrid,51
+28,21/22,Betis,49
+28,21/22,Real Sociedad,47
+28,21/22,Villarreal,45
+28,21/22,Athletic Club,40
+28,21/22,Valencia,37
+28,21/22,Celta Vigo,35
+28,21/22,Osasuna,35
+28,21/22,Rayo Vallecano,35
+28,21/22,Espanyol,33
+28,21/22,Elche,32
+28,21/22,Getafe,28
+28,21/22,Mallorca,26
+28,21/22,Granada,25
+28,21/22,Cádiz,24
+28,21/22,Alavés,22
+28,21/22,Levante,19
+29,21/22,Real Madrid,66
+29,21/22,Sevilla,57
+29,21/22,Barcelona,54
+29,21/22,Atlético Madrid,54
+29,21/22,Betis,50
+29,21/22,Real Sociedad,48
+29,21/22,Villarreal,45
+29,21/22,Athletic Club,41
+29,21/22,Valencia,40
+29,21/22,Osasuna,38
+29,21/22,Celta Vigo,36
+29,21/22,Espanyol,36
+29,21/22,Rayo Vallecano,35
+29,21/22,Elche,32
+29,21/22,Getafe,29
+29,21/22,Granada,28
+29,21/22,Cádiz,27
+29,21/22,Mallorca,26
+29,21/22,Alavés,22
+29,21/22,Levante,19
+30,21/22,Real Madrid,69
+30,21/22,Barcelona,57
+30,21/22,Atlético Madrid,57
+30,21/22,Sevilla,57
+30,21/22,Betis,53
+30,21/22,Real Sociedad,51
+30,21/22,Villarreal,45
+30,21/22,Athletic Club,44
+30,21/22,Valencia,41
+30,21/22,Osasuna,38
+30,21/22,Celta Vigo,36
+30,21/22,Espanyol,36
+30,21/22,Rayo Vallecano,36
+30,21/22,Elche,32
+30,21/22,Getafe,32
+30,21/22,Granada,29
+30,21/22,Cádiz,28
+30,21/22,Mallorca,26
+30,21/22,Alavés,22
+30,21/22,Levante,22
+31,21/22,Real Madrid,72
+31,21/22,Barcelona,60
+31,21/22,Sevilla,60
+31,21/22,Atlético Madrid,57
+31,21/22,Betis,56
+31,21/22,Real Sociedad,54
+31,21/22,Villarreal,46
+31,21/22,Athletic Club,45
+31,21/22,Valencia,42
+31,21/22,Osasuna,41
+31,21/22,Espanyol,39
+31,21/22,Rayo Vallecano,37
+31,21/22,Celta Vigo,36
+31,21/22,Elche,32
+31,21/22,Getafe,32
+31,21/22,Granada,29
+31,21/22,Mallorca,29
+31,21/22,Cádiz,28
+31,21/22,Alavés,22
+31,21/22,Levante,22
+32,21/22,Real Madrid,75
+32,21/22,Barcelona,60
+32,21/22,Atlético Madrid,60
+32,21/22,Sevilla,60
+32,21/22,Betis,57
+32,21/22,Real Sociedad,55
+32,21/22,Villarreal,49
+32,21/22,Athletic Club,45
+32,21/22,Osasuna,44
+32,21/22,Valencia,42
+32,21/22,Celta Vigo,39
+32,21/22,Espanyol,39
+32,21/22,Rayo Vallecano,37
+32,21/22,Elche,35
+32,21/22,Getafe,32
+32,21/22,Cádiz,31
+32,21/22,Granada,29
+32,21/22,Mallorca,29
+32,21/22,Alavés,25
+32,21/22,Levante,25
+33,21/22,Real Madrid,78
+33,21/22,Barcelona,63
+33,21/22,Sevilla,63
+33,21/22,Atlético Madrid,61
+33,21/22,Betis,57
+33,21/22,Real Sociedad,55
+33,21/22,Villarreal,52
+33,21/22,Athletic Club,48
+33,21/22,Osasuna,44
+33,21/22,Valencia,42
+33,21/22,Rayo Vallecano,40
+33,21/22,Celta Vigo,39
+33,21/22,Espanyol,39
+33,21/22,Elche,38
+33,21/22,Getafe,35
+33,21/22,Mallorca,32
+33,21/22,Cádiz,31
+33,21/22,Granada,30
+33,21/22,Alavés,25
+33,21/22,Levante,25
+34,21/22,Real Madrid,81
+34,21/22,Barcelona,66
+34,21/22,Sevilla,64
+34,21/22,Atlético Madrid,61
+34,21/22,Betis,58
+34,21/22,Real Sociedad,56
+34,21/22,Villarreal,52
+34,21/22,Athletic Club,51
+34,21/22,Osasuna,45
+34,21/22,Valencia,43
+34,21/22,Rayo Vallecano,41
+34,21/22,Celta Vigo,40
+34,21/22,Elche,39
+34,21/22,Espanyol,39
+34,21/22,Getafe,36
+34,21/22,Cádiz,32
+34,21/22,Mallorca,32
+34,21/22,Granada,31
+34,21/22,Alavés,28
+34,21/22,Levante,26
+35,21/22,Real Madrid,81
+35,21/22,Barcelona,69
+35,21/22,Sevilla,65
+35,21/22,Atlético Madrid,64
+35,21/22,Betis,58
+35,21/22,Real Sociedad,56
+35,21/22,Villarreal,53
+35,21/22,Athletic Club,52
+35,21/22,Osasuna,46
+35,21/22,Valencia,44
+35,21/22,Celta Vigo,43
+35,21/22,Rayo Vallecano,42
+35,21/22,Espanyol,40
+35,21/22,Elche,39
+35,21/22,Getafe,37
+35,21/22,Cádiz,35
+35,21/22,Granada,34
+35,21/22,Mallorca,32
+35,21/22,Levante,29
+35,21/22,Alavés,28
+36,21/22,Real Madrid,84
+36,21/22,Barcelona,72
+36,21/22,Atlético Madrid,67
+36,21/22,Sevilla,66
+36,21/22,Betis,61
+36,21/22,Real Sociedad,59
+36,21/22,Villarreal,56
+36,21/22,Athletic Club,52
+36,21/22,Osasuna,47
+36,21/22,Valencia,44
+36,21/22,Celta Vigo,43
+36,21/22,Rayo Vallecano,42
+36,21/22,Espanyol,40
+36,21/22,Elche,39
+36,21/22,Getafe,38
+36,21/22,Granada,37
+36,21/22,Cádiz,35
+36,21/22,Mallorca,33
+36,21/22,Alavés,31
+36,21/22,Levante,29
+37,21/22,Real Madrid,85
+37,21/22,Barcelona,73
+37,21/22,Atlético Madrid,68
+37,21/22,Sevilla,67
+37,21/22,Betis,64
+37,21/22,Real Sociedad,62
+37,21/22,Villarreal,56
+37,21/22,Athletic Club,55
+37,21/22,Osasuna,47
+37,21/22,Celta Vigo,46
+37,21/22,Valencia,45
+37,21/22,Rayo Vallecano,42
+37,21/22,Espanyol,41
+37,21/22,Elche,39
+37,21/22,Getafe,39
+37,21/22,Granada,37
+37,21/22,Cádiz,36
+37,21/22,Mallorca,36
+37,21/22,Levante,32
+37,21/22,Alavés,31
+38,21/22,Real Madrid,86
+38,21/22,Barcelona,73
+38,21/22,Atlético Madrid,71
+38,21/22,Sevilla,70
+38,21/22,Betis,65
+38,21/22,Real Sociedad,62
+38,21/22,Villarreal,59
+38,21/22,Athletic Club,55
+38,21/22,Valencia,48
+38,21/22,Osasuna,47
+38,21/22,Celta Vigo,46
+38,21/22,Elche,42
+38,21/22,Espanyol,42
+38,21/22,Rayo Vallecano,42
+38,21/22,Cádiz,39
+38,21/22,Mallorca,39
+38,21/22,Getafe,39
+38,21/22,Granada,38
+38,21/22,Levante,35
+38,21/22,Alavés,31
